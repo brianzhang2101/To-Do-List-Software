@@ -1,0 +1,99 @@
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.csprojAssemblyReference.cache
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.csproj.CoreCompileInputs.cache
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\ToDoList.exe
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\ToDoList.pdb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.csproj.CopyComplete
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.exe
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.pdb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Help Screen.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Help-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Home Screen.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Home-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Level-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Timetable-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\To-Do List Screen.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Todo-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Fonts\StdFont.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Low-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Med-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\High-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Textbox.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Fonts\Time.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Delete-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Text-Bar.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Priority-Bar.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Complete-Button.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Progress Screen.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\backPage.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\nextPage.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\bronze medal.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\gold medal.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\no medal.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\silver medal.xnb
+E:\Year 12\Software Design and Development\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Fonts\Tinyfont.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\backPage.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\bronze medal.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Complete-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Delete-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\gold medal.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Help Screen.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Help-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\High-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Home Screen.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Home-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Level-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Low-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Med-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\nextPage.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\no medal.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Priority-Bar.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Progress Screen.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\silver medal.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Text-Bar.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Textbox.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Timetable-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\To-Do List Screen.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Sprites\Todo-Button.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Fonts\StdFont.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Fonts\Time.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\Content\Fonts\Tinyfont.xnb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\ToDoList.exe
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\ToDoList.pdb
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.csproj.CopyComplete
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.exe
+C:\Users\Brian\Dropbox\ToDoList\ToDoList\ToDoList\obj\x86\Debug\ToDoList.pdb

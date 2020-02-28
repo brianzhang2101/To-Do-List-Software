@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Help-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Home-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Level-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Timetable-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/To-Do List Screen.PNG</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Todo-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Fonts/StdFont.spritefont</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Low-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Med-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/High-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Textbox.PNG</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Fonts/Time.spritefont</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Delete-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Text-Bar.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Priority-Bar.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Complete-Button.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/backPage.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/nextPage.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/bronze medal.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/gold medal.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/no medal.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/silver medal.png</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Progress Screen.PNG</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Home Screen.PNG</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Sprites/Help Screen.PNG</File>
+    <File>C:/Users/Brian/Dropbox/ToDoList/ToDoList/ToDoList/Content/Fonts/Tinyfont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
