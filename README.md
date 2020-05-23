@@ -8,9 +8,9 @@ Make sure the directories are not changed or else sprites and the save function 
 
 ![](Screenshots/main.PNG)
 
-![](Screenshots/to-do.PNG)
+![](Screenshots/s1.JPG)
 
-![](Screenshots/to-do-more.PNG)
+![](Screenshots/s2.JPG)
 
 ![](Screenshots/reward.PNG)
 
