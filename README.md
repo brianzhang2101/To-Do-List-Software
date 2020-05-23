@@ -1,6 +1,6 @@
 # To-Do-List-Software
 
-A fully functional to-do list software where users can add tasks, tick them off and have the data saved and reviewed as well as rewarded by in-app badges. All sprites were made by myself in Aseprite. 
+A to-do list software where users can add tasks, tick them off and have the data saved and reviewed as well as rewarded by in-app badges. All sprites were made by myself in Aseprite. 
 
 This software was programmed with XNA/C# in Monogame. In order to run this project, you must have Monogame installed (as long as you can run a new template with blue default screen, you can run this).
 
